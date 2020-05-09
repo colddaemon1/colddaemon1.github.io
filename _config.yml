@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -48,13 +48,13 @@ projects:
 
 topics:
   - name: Solution Architecture
-    #web_url: https://github.com/topics/css
+    web_url: https://nlittle.com
     image_url: https://skillemics.com/wp-content/uploads/2020/01/Featured-_-Solution-Architecture-1.jpg
 
   - name: Business Enterprise
-    #web_url: https://github.com/topics/sass
+    web_url: https://nlittle.com
     image_url: https://s3.amazonaws.com/pas-wordpress-media/content/uploads/2020/01/16152228/bigstock-Flat-Design-Concept-Of-Consult-311989798-min.jpg
 
  - name: Business&Technology Strategic Alignment
-    #web_url: https://github.com/topics/sass
+    web_url: https://nlittle.com
     image_url: https://www.kinaxis.com/sites/default/files/blog/2015/04/Circles4-300x276.jpg
