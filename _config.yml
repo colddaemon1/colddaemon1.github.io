@@ -6,7 +6,7 @@ plugins:
   - jekyll-github-metadata
   - jemoji
 
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 
 defaults:
   -
