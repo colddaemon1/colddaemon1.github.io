@@ -14,10 +14,8 @@ Some easy customisation using Cloudflare for adding the required CNAME DNS entri
 
 A small gotcha, that I found common after reasearch was the lack of a new blank anchor reference for an attachment. My fix was to upload a PDF (my attachment) to my local repository and link it in wiki markdown with the following: 
 
-# Highlighter
+# Markdown for relative URI attachment in a new tab:
 
-
-## HTML
 ```html
 <!--Add in:-->
 <a href="{{site.baseurl}}/Nick%20Little_CV.pdf">My CV is here</a>
