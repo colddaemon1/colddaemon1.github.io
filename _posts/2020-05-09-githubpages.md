@@ -1,7 +1,6 @@
-
 ---
 title: "Having a play with GitHub Pages"
-published: true
+published: false
 ---
 
 Getting sick of paying for hosting costs associated with supporting a Wordpress CMS with a LAMP back-end, I had a look around for statically aware site hosting, and came across Jekyll on GitHub Pages.
