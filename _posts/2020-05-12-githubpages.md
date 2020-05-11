@@ -20,7 +20,8 @@ A small gotcha, that I found common after reasearch was the lack of a new blank 
 <!--Add in:-->
 <a href="{{site.baseurl}}/Nick%20Little_CV.pdf">My CV is here</a>
 
-<!--To this file:--> https://raw.githubusercontent.com/colddaemon1/colddaemon1.github.io/master/_posts/2020-05-11-nickcv.md
+<!--To this file:--> 
+https://raw.githubusercontent.com/colddaemon1/colddaemon1.github.io/master/_posts/2020-05-11-nickcv.md
 ```
 
 So, there you go! I'm stil having a few teething issues - but at least I have a free site up and running that I can post with. 
