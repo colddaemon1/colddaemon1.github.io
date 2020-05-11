@@ -15,13 +15,12 @@ Some easy customisation using Cloudflare for adding the required CNAME DNS entri
 A small gotcha, that I found common after reasearch was the lack of a new blank anchor reference for an attachment. My fix was to upload a PDF (my attachment) to my local repository and link it in wiki markdown with the following: 
 
 # Markdown for relative URI attachment in a new tab:
-
-```html
 <!--Add in:-->
 <a href="{{site.baseurl}}/Nick%20Little_CV.pdf">My CV is here</a>
 
 <!--To this file:--> 
 https://raw.githubusercontent.com/colddaemon1/colddaemon1.github.io/master/_posts/2020-05-11-nickcv.md
-```
+
+The escape characters of course required for the spaces in the filename.
 
 So, there you go! I'm stil having a few teething issues - but at least I have a free site up and running that I can post with. 
